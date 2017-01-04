@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry exported="true" kind="lib" path="E:/IFPR - 6 semestre/Construção de Aplicações utilizando Frameworks/hibernate-release-5.0.0.CR3/jpa/hibernate-entitymanager-5.0.0.CR3.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/IFPR - 6 semestre/Construção de Aplicações utilizando Frameworks/mysql-connector-java-5.1.36/mysql-connector-java-5.1.36/mysql-connector-java-5.1.36-bin.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/IFPR - 6 semestre/Construção de Aplicações utilizando Frameworks/hibernate-release-5.0.0.CR3/required/antlr-2.7.7.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/IFPR - 6 semestre/Construção de Aplicações utilizando Frameworks/hibernate-release-5.0.0.CR3/required/dom4j-1.6.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/IFPR - 6 semestre/Construção de Aplicações utilizando Frameworks/hibernate-release-5.0.0.CR3/required/geronimo-jta_1.1_spec-1.1.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/IFPR - 6 semestre/Construção de Aplicações utilizando Frameworks/hibernate-release-5.0.0.CR3/required/hibernate-commons-annotations-5.0.0.Final.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/IFPR - 6 semestre/Construção de Aplicações utilizando Frameworks/hibernate-release-5.0.0.CR3/required/hibernate-core-5.0.0.CR3.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/IFPR - 6 semestre/Construção de Aplicações utilizando Frameworks/hibernate-release-5.0.0.CR3/required/hibernate-jpa-2.1-api-1.0.0.Final.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/IFPR - 6 semestre/Construção de Aplicações utilizando Frameworks/hibernate-release-5.0.0.CR3/required/jandex-1.2.2.Final.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/IFPR - 6 semestre/Construção de Aplicações utilizando Frameworks/hibernate-release-5.0.0.CR3/required/javassist-3.18.1-GA.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/IFPR - 6 semestre/Construção de Aplicações utilizando Frameworks/hibernate-release-5.0.0.CR3/required/jboss-logging-3.3.0.Final.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
